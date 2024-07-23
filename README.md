@@ -14,3 +14,8 @@ lego create
 ```bash
 lego add sa_lego_cloud_functions_lego
 ```
+
+3. create cloud_functions server if you don't have one using the following [link](https://github.com/melodysdreamj/lego-cloud_functions)
+   1. move to [link](https://github.com/melodysdreamj/lego-cloud_functions)
+   2. click template repository and use this template to create a new repository.
+   3. setup using README.md in the repository.
