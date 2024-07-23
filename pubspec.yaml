@@ -1,7 +1,7 @@
 name: sa_lego_cloud_functions_lego
 description: "lego is all you need"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/sa_lego_cloud_functions_lego
 
 version: 1.0.0
 
@@ -22,6 +22,9 @@ dependencies:
   bot_toast:
   cloud_functions: #@add
   firebase_core:
+  firebase_auth:
+  google_sign_in:
+  easy_event_bus:
 
 dev_dependencies:
   flutter_test:
